@@ -3,3 +3,4 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 nbcstreaming.hb.omtrdc.net
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
+0.0.0.0 cloudapi.imrworldwide.com

@@ -1,3 +1,4 @@
 ! Since AdGuard doesn't support individual whitelists, here this is.
 !
 0.0.0.0 api.amplitude.com
+0.0.0.0 geo.nbcsports.com

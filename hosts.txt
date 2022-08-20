@@ -1,9 +1,3 @@
 ! Since AdGuard doesn't support individual whitelists, here this is.
 !
 0.0.0.0 api.amplitude.com
-0.0.0.0 nbcstreaming.hb.omtrdc.net
-0.0.0.0 video-ads-module.ad-tech.nbcuni.com
-0.0.0.0 cloudapi.imrworldwide.com
-0.0.0.0 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
-0.0.0.0 nbcstreaming.sc.omtrdc.net
-0.0.0.0 mobile-collector.newrelic.com
